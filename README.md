@@ -123,3 +123,5 @@ Alfa Dani Shafly Pratama
 ---
 
 *Built with ❤️ using Streamlit*
+
+p.s. see our example here https://retail-sales-dashboard-project.streamlit.app/
